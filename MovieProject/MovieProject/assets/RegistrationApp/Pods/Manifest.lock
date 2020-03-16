@@ -1,0 +1,37 @@
+PODS:
+  - Alamofire (4.8.2)
+  - IQKeyboardManagerSwift (6.4.0)
+  - MarqueeLabel (4.0.0)
+  - SDWebImage (5.0.6):
+    - SDWebImage/Core (= 5.0.6)
+  - SDWebImage/Core (5.0.6)
+  - SDWebImage/MapKit (5.0.6):
+    - SDWebImage/Core
+  - TextFieldEffects (1.6.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - IQKeyboardManagerSwift
+  - MarqueeLabel
+  - SDWebImage (~> 5.0)
+  - SDWebImage/MapKit
+  - TextFieldEffects
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - MarqueeLabel
+    - SDWebImage
+    - TextFieldEffects
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  IQKeyboardManagerSwift: ed9b04ee0e3067ffba543283462d619f944b05e5
+  MarqueeLabel: b55b26e690b6ad41faedd95cbf5eae6f1d1735b4
+  SDWebImage: 920f1a2ff1ca8296ad34f6e0510a1ef1d70ac965
+  TextFieldEffects: 529b8aff706fb40f82c41c780c0777941a893796
+
+PODFILE CHECKSUM: bfc82946a9c49665b282c2fb408183362e5cbbd5
+
+COCOAPODS: 1.7.5

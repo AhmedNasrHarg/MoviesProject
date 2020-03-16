@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Cosmos (21.0.0)
+  - SDWebImage (5.5.2):
+    - SDWebImage/Core (= 5.5.2)
+  - SDWebImage/Core (5.5.2)
+  - youtube-ios-player-helper (0.1.6)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - Cosmos (~> 21.0)
+  - SDWebImage (~> 5.0)
+  - youtube-ios-player-helper (~> 0.1.4)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Cosmos
+    - SDWebImage
+    - youtube-ios-player-helper
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Cosmos: 3dfb6e4ba48bd48b8c9aa2a77048ae11ed114f96
+  SDWebImage: 4d5c027c935438f341ed33dbac53ff9f479922ca
+  youtube-ios-player-helper: 21ab92db027c7ff86cb17a3843a3f6eafc8158d2
+
+PODFILE CHECKSUM: 027603072e933478b4c67e9b691232f0d7c48e50
+
+COCOAPODS: 1.8.4
